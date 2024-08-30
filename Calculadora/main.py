@@ -5,7 +5,7 @@ def main(page: ft.Page):
     page.window.center()
     page.title = 'Calculadora'
     page.window_width = 270
-    page.window_height = 500
+    page.window_height = 450
     page.window_resizable = True
     page.window_always_on_top = True
     page.update()
